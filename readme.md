@@ -1,7 +1,6 @@
-# Programmming Hero Paribahan
+Mumin Travels
 
 Developing the Future of Transportation: Where Innovation Meets Mobility
 
 ## Coach -009 | Web
-
-<img src="./Landing Page Design.jpg" />
+live site: mumin-travels200.surge.sh
